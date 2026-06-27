@@ -1,4 +1,4 @@
-local Directory = "https://raw.githubusercontent.com/TON_PSEUDO/ChevalHub/main/Games"
+local Directory = "https://raw.githubusercontent.com/CHEVAL-S/Cheval-sHub/main/Games"
 local Api = "https://api.luarmor.net/files/v4/loaders"
 local Scripts = {
     Free = {
